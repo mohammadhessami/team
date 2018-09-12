@@ -18,7 +18,7 @@ After it’s tested, merge the hotfix branch, and push to production.
 Switch back to your original story and continue working.
 
 Basic Branching
-<<<<<<< HEAD
+<<<<<<<
 First, let’s say you’re working on your project and have a couple of commits already on the master branc        
 maziar khan 
 =======
