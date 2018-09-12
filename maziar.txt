@@ -1,4 +1,4 @@
-Basic Branching and Merging
+    Basic Branching and Merging
 Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
 
 Do some work on a website.
@@ -18,4 +18,4 @@ After it’s tested, merge the hotfix branch, and push to production.
 Switch back to your original story and continue working.
 
 Basic Branching
-First, let’s say you’re working on your project and have a couple of commits already on the master branc        
+First, let’s say you’re working on your project and have a couple of commits already on the master branch.   
